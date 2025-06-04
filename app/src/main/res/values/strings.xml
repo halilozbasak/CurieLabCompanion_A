@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurieLab Companion</string>
+    <string name="title_stock_dilution">Stock Solution Dilution</string>
+    <string name="label_stock_concentration">Stock concentration:</string>
+    <string name="label_final_volume">Desired final volume:</string>
+    <string name="label_desired_concentration">Desired concentration:</string>
+    <string name="hint_enter_value">Enter value</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="result_placeholder">Result will be shown here</string>
+
+    <string name="menu_acid_base">Acid &amp; Base</string>
+    <string name="menu_molarity">Molarity</string>
+    <string name="menu_stock_dilution">Stock Dilution</string>
+
+    <string-array name="concentration_units">
+        <item>M</item>
+        <item>mM</item>
+        <item>µM</item>
+    </string-array>
+
+    <string-array name="volume_units">
+        <item>L</item>
+        <item>mL</item>
+        <item>µL</item>
+    </string-array>
+
+</resources>

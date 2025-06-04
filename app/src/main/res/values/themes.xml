@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CurieLabCompanion" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/custom_red_dark</item>
+        <item name="colorPrimaryVariant">@color/custom_red_700</item> <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/custom_red_light</item>
+        <item name="colorSecondaryVariant">@color/custom_red_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.CurieLabCompanion" parent="Base.Theme.CurieLabCompanion" />
+</resources>

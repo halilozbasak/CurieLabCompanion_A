@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_acid_base"
+        android:icon="@drawable/ic_science"
+        android:title="@string/menu_acid_base" />
+
+    <item
+        android:id="@+id/nav_molarity"
+        android:icon="@drawable/ic_opacity"
+        android:title="@string/menu_molarity" />
+
+    <item
+        android:id="@+id/nav_stock_dilution"
+        android:icon="@drawable/ic_bubble_chart"
+        android:title="@string/menu_stock_dilution" />
+
+</menu>
